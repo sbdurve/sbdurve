@@ -1,6 +1,6 @@
 
-** This python script, when executed, reads "Dasharah.xlsx" and creates an HTML file which can be used to host a demo family tree  **
-** Modify the spreadsheet to create your own family tree applying the rules of uniqueness below to the spreadsheet columns	   **
+** This python script, when executed, reads "Dasharah.xlsx" and creates an HTML file which can be used to host a demo family tree  **\n
+** Modify the spreadsheet to create your own family tree applying the rules of uniqueness below to the spreadsheet columns	   **\n
 
 **      | Worksheet | Column          | Rule                                                                                     | **
 **      |-----------|-----------------|------------------------------------------------------------------------------------------| **
